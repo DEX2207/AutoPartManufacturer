@@ -59,17 +59,6 @@
             <mxRectangle width="150" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="xRZRSona4_PvUIDPiZJx-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="gmik6YR2Ss4Xsw0ALlSQ-41" target="gmik6YR2Ss4Xsw0ALlSQ-68">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="660" y="60" />
-              <mxPoint x="680" y="60" />
-              <mxPoint x="680" y="300" />
-              <mxPoint x="490" y="300" />
-              <mxPoint x="490" y="385" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="gmik6YR2Ss4Xsw0ALlSQ-41" value="Car Part" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;" parent="1" vertex="1">
           <mxGeometry x="480" y="50" width="180" height="180" as="geometry" />
         </mxCell>
@@ -422,6 +411,9 @@
               <mxPoint x="84" y="20" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="xRZRSona4_PvUIDPiZJx-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="gmik6YR2Ss4Xsw0ALlSQ-42" target="gmik6YR2Ss4Xsw0ALlSQ-74">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
